@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ERP system of Saimon Properties Ltd.
+- 🔭 I’m currently studying Master's in Computer Science at University of Bridgeport,USA
 - 🌱 I’m currently learning Data Mining,Cloud Computation
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with solving data mining problems
