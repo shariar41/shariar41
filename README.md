@@ -27,7 +27,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/HTML5.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/CSS3.png" />]
 [<img align="left" alt="CSharp" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/c-sharp.png" />]
-[<img align="left" alt="JavaScript" width="26px"] src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/JavaScript.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/JavaScript.png" />]
 [<img align="left" alt="Node.js" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/nodejs.png" />]
 [<img align="left" alt="python" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/python.png" />]
 [<img align="left" alt="django" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/django.png" />]
