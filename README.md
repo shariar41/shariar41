@@ -40,6 +40,8 @@
 <br />
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shariar41&theme=vision-friendly-dark&border_radius=2.0)](https://git.io/streak-stats)
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
