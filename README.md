@@ -43,7 +43,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+  <img align="left" alt="Saimon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -58,4 +58,4 @@
 [instagram]: 
 https://www.instagram.com/shariar_islam_saimon/
 [linkedin]: https://www.linkedin.com/in/shariar-islam-saimon
-[portfolio]: https://arsentieva.github.io/profile/
+[portfolio]: https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/Resume.pdf
