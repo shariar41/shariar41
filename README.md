@@ -1,6 +1,6 @@
 ### Hello World, I'm Shariar Islam Saimon  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+## <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
 ## I'm a Student, Application Developer, Problem Solver!!
@@ -22,21 +22,21 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/visual-studio-code.png" />]
-[<img align="left" alt="android studio" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/android-studio-icon.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/HTML5.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/CSS3.png" />]
-[<img align="left" alt="CSharp" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/c-sharp.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/JavaScript.png" />]
-[<img align="left" alt="Node.js" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/nodejs.png" />]
-[<img align="left" alt="python" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/python.png" />]
-[<img align="left" alt="django" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/django.png" />]
-[<img align="left" alt="flask" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/flask.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/sql.jpg" />]
-[<img align="left" alt="MySQL" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/MySQL-Logo.jpg" />]
-[<img align="left" alt="Git" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/terminal.png" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/visual-studio-code.png" />
+<img align="left" alt="android studio" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/android-studio-icon.png" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/HTML5.png" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/CSS3.png" />
+<img align="left" alt="CSharp" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/c-sharp.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/JavaScript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/nodejs.png" />
+<img align="left" alt="python" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/python.png" />
+<img align="left" alt="django" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/django.png" />
+<img align="left" alt="flask" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/flask.png" />
+<img align="left" alt="SQL" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/sql.jpg" />
+<img align="left" alt="MySQL" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/MySQL-Logo.jpg" />
+<img align="left" alt="Git" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/terminal.png" />
 
 <br />
 <br />
