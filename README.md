@@ -41,7 +41,7 @@
 ---
 
 ### :fire: My Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shariar41&theme=vision-friendly-dark&border_radius=2.0)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shariar41&mode=weekly)](https://git.io/streak-stats)
 <details>
   <summary>:zap: GitHub Stats</summary>
 
