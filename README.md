@@ -1,11 +1,12 @@
 ### Hello World, I'm Shariar Islam Saimon  👋
 
 
-## I'm a Student, Application Developer, Problem Solver!!
+## I'm a Student, Application Developer, and Problem Solver!!
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently studying Master's in Computer Science at University of Bridgeport,USA
-- 🌱 I’m currently learning Data Mining,Cloud Computation
-- 👯 I’m looking to collaborate on open source
+- 🔭 Graduated with a Master's degree in Computer Science from the University of Bridgeport, USA.
+- 🌱 I’m currently learning Data Mining, Cloud Computation
+- 👯 I’m looking to collaborate on ML Research
+- 👯 I’m looking to collaborate on open-source
 - 🤔 I’m looking for help with solving data mining problems
 - 💬 Ask me about application development skills
 - 😄 Pronouns: He/Him
