@@ -9,9 +9,13 @@
 
 ## 🚀 Research Vision
 
-I develop **AI-driven intelligent systems for healthcare**, focusing on transforming multimodal data into **real-time, clinically actionable insights**:
+My research focuses on understanding how intelligent systems can learn robust and generalizable representations from heterogeneous, real-world data. I am particularly interested in multimodal learning, where signals such as EEG, medical imaging, and electronic health records are integrated to model complex underlying processes and support decision-making under uncertainty.
 
-**EEG → Medical Imaging → EHR → Decision Systems**
+I explore how deep learning and reinforcement learning frameworks can be extended to operate beyond static prediction tasks, toward sequential reasoning, adaptive policies, and long-term outcome optimization. This includes studying representation learning in high-dimensional spaces, the role of embedding structures in improving generalization, and the integration of perception and decision-making in unified models.
+
+A central aspect of my work is the development of methods that are not only accurate but also interpretable and reliable. I investigate approaches in explainable AI, uncertainty modeling, and privacy-preserving learning to better understand model behavior and ensure safe deployment in sensitive domains.
+
+More broadly, I am interested in the theoretical and practical challenges of building AI systems that can bridge perception, reasoning, and action. My long-term goal is to contribute to the development of intelligent systems that can adapt to complex environments, learn from limited or noisy data, and provide meaningful insights in real-world settings.
 
 My work emphasizes **scalable, interpretable, and trustworthy AI** for real-world deployment.
 
