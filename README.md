@@ -88,32 +88,29 @@ Focus:
 
 ⭐ Open to research collaborations and advanced AI applications
 
-
 ---
 
 ## Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/LinkedIn_logo_initials.png" />][linkedin]
+[<img alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/shariar-islam-saimon)
 
 <br />
+
 ---
 
-## Languages and Tools:
+## 🛠️ Languages and Tools
 
-<img align="left" alt="python" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/python.png" />
-<img align="left" alt="PyTorch" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<img align="left" alt="TensorFlow" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="django" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/django.png" />
-<img align="left" alt="flask" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/flask.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/visual-studio-code.png" />
-<img align="left" alt="android studio" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/android-studio-icon.png" />
-<img align="left" alt="CSharp" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/c-sharp.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/JavaScript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/sql.jpg" />
-<img align="left" alt="MySQL" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/MySQL-Logo.jpg" />
-<img align="left" alt="Git" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/git.png" />
+<img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img alt="PyTorch" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+<img alt="TensorFlow" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img alt="Django" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+<img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img alt="CSharp" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-<br />
+<br /><br />
 
 ---
 
