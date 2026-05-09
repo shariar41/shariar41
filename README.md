@@ -1,17 +1,88 @@
-### Hello World, I'm Shariar Islam Saimon  👋
+# Hello World, I'm Shariar Islam Saimon  👋
 
+🎓 PhD Student, Computer Engineering — University of Bridgeport (CGPA: 4.00)  
+🎓 M.S. in Computer Science — University of Bridgeport (CGPA: 3.973)  
+🔬 AI Researcher | Healthcare AI · Computer Vision · Deep Learning · Reinforcement Learning  
+📍 Connecticut, USA  
 
-## I'm a Student, Application Developer, and Problem Solver!!
-- ✍ You can find my projects here [portfolio]
-- 🔭 Graduated with a Master's degree in Computer Science from the University of Bridgeport, USA.
-- 🌱 I’m currently learning Data Mining, Cloud Computation
-- 👯 I’m looking to collaborate on ML Research
-- 👯 I’m looking to collaborate on open-source
-- 🤔 I’m looking for help with solving data mining problems
-- 💬 Ask me about application development skills
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: A problem solver with a Can-Do attitude
-- ⚡ Fun fact: I speak 2 languages ( English, Bengali)
+---
+
+## 🚀 Research Vision
+
+I develop **AI-driven intelligent systems for healthcare**, focusing on transforming multimodal data into **real-time, clinically actionable insights**:
+
+**EEG → Medical Imaging → EHR → Decision Systems**
+
+My work emphasizes **scalable, interpretable, and trustworthy AI** for real-world deployment.
+
+---
+
+## 🧠 Core Work Areas
+
+### 🔹 Deep Learning (Diagnosis Systems)
+CNN-LSTM · TFSNet · BFMs · EHRMamba · MedGemma  
+
+### 🔹 Computer Vision (Medical Imaging)
+SAM2 · DINOv2 · AIMv2 · SAM-Adapter + ViT  
+
+### 🔹 Machine Learning (Predictive Analytics)
+XGBoost + SHAP · CatBoost · LightGBM · Federated Learning  
+
+### 🔹 Reinforcement Learning (Treatment Optimization)
+PPO · MDP-based systems · Multi-task RL + XAI  
+
+### 🔹 Trustworthy AI
+Federated Learning · SHAP · GradCAM · Explainable AI  
+
+---
+
+## 📂 Selected Work
+
+- 🏥 **HealNet** — AI-powered multimodal triage and decision support  
+- 🔥 **Wildfire Detection & Prediction** — satellite + vision-based modeling (NASA-related work)  
+- 🧬 **Medical Anomaly Detection** — zero-shot & few-shot learning  
+- 🎮 **Reinforcement Learning Agents** — DQN-based systems (state & visual inputs)  
+- 🧠 **Deep Learning Models** — CNN, ResNet, Siamese, Triplet, ArcFace  
+
+---
+
+## 🛠️ Technical Stack
+
+**AI/ML:** PyTorch · TensorFlow · Scikit-learn  
+**Vision:** OpenCV · CNN · ViT · YOLO  
+**RL:** DQN · PPO · Actor-Critic  
+**Systems:** Django · React · REST APIs · Docker · PostgreSQL  
+
+---
+
+## 📊 Research
+
+📄 Google Scholar: https://scholar.google.com/citations?user=TNKGiekAAAAJ  
+
+Focus:
+- AI for healthcare diagnostics  
+- Multimodal learning  
+- Early disease detection  
+
+---
+
+## 🎯 Research Interests
+
+- Multimodal healthcare AI  
+- Trustworthy & interpretable AI  
+- Vision-based medical systems  
+- Reinforcement learning for decision-making  
+
+---
+
+## 📫 Contact
+
+🌐 Portfolio: https://www.shariar-islam-saimon.xyz  
+🔗 GitHub: https://github.com/shariar41  
+
+---
+
+⭐ Open to research collaborations and advanced AI applications
 
 
 ### Talk with me, I am kinda awesome:
