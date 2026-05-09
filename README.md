@@ -89,12 +89,13 @@ Focus:
 ⭐ Open to research collaborations and advanced AI applications
 
 
-### Talk with me, I am kinda awesome:
+## Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/LinkedIn_logo_initials.png" />][linkedin]
+
 
 ---
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="python" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/python.png" />
 <img align="left" alt="PyTorch" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
@@ -113,7 +114,7 @@ Focus:
 
 ---
 
-### :fire: My Stats:
+## :fire: My Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Shariar41&theme=vision-friendly-dark&border_radius=2.0)](https://git.io/streak-stats)
 
 <details>
