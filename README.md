@@ -92,7 +92,7 @@ Focus:
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/LinkedIn_logo_initials.png" />][linkedin]
 
-<br />
+---
 
 ### Languages and Tools:
 
@@ -110,8 +110,7 @@ Focus:
 <img align="left" alt="MySQL" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/MySQL-Logo.jpg" />
 <img align="left" alt="Git" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/git.png" />
 
-<br />
-<br />
+
 ---
 
 ### :fire: My Stats:
