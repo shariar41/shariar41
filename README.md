@@ -96,21 +96,19 @@ Focus:
 
 ### Languages and Tools:
 
+<img align="left" alt="python" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/python.png" />
+<img align="left" alt="PyTorch" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+<img align="left" alt="TensorFlow" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="django" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/django.png" />
+<img align="left" alt="flask" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/flask.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/visual-studio-code.png" />
 <img align="left" alt="android studio" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/android-studio-icon.png" />
-<img align="left" alt="HTML5" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/HTML5.png" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/CSS3.png" />
 <img align="left" alt="CSharp" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/c-sharp.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/JavaScript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/nodejs.png" />
-<img align="left" alt="python" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/python.png" />
-<img align="left" alt="django" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/django.png" />
-<img align="left" alt="flask" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/flask.png" />
 <img align="left" alt="SQL" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/sql.jpg" />
 <img align="left" alt="MySQL" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/MySQL-Logo.jpg" />
 <img align="left" alt="Git" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://github.com/shariar41/shariar41/blob/main/git%20profile%20logos/terminal.png" />
 
 <br />
 <br />
@@ -122,7 +120,7 @@ Focus:
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Saimon's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariar41" />
+<img align="left" alt="Saimon's GitHub Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shariar41&theme=github_dark" />
 
 </details>
 
